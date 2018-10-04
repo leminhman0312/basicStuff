@@ -1,0 +1,63 @@
+
+----------------------------------------------------------
+Question 1: FIXED POINT ITERATION METHOD 
+Given f(x) = sin^2(x) -4x + 6 
+Initial guess is 2.000 
+Number of iteration is 5.000 
+
+n 	|x0 		|  x 		 | Relative error (%) 
+--------------------------------------------------
+1 	|1.7067055 	| 1.7067055  | 17.1848 
+2 	|1.7454106 	| 1.7454106  |  2.2175 
+3 	|1.7424546 	| 1.7424546  |  0.1696 
+4 	|1.7427055 	| 1.7427055  |  0.0144 
+5 	|1.7426844 	| 1.7426844  |  0.0012 
+The root of f(x)=0 is 1.743 
+The percent relative error = 0.0012 %.
+
+----------------------------------------------------------
+Question 1: NEWTON-RAPHSON's METHOD 
+Given f(x) = sin^2(x) -4x + 6 
+Initial guess is 2.000 
+Number of iteration is 5 
+
+n 	|x0 	|x	| Relative error(%) 
+--------------------------------------
+1 	|2.000 	|1.753 	|  1.2332e+01 
+2 	|1.753 	|1.743 	|  6.0785e-01 
+3 	|1.743 	|1.743 	|  1.4075e-03 
+4 	|1.743 	|1.743 	|  7.4948e-09 
+5 	|1.743 	|1.743 	|  1.2742e-14 
+
+The root of f(x)=0 is 1.743 
+The percent relative error = 1.2742e-14 %.
+
+----------------------------------------------------------
+Question 1: NEWTON-RAPHSON's METHOD 
+Given f(x) = sin^2(x) -4x + 6 
+Initial guess is 2.000 
+Number of iteration is 5 
+
+n 	|x0 	|x	| Relative error(%) 
+--------------------------------------
+1 	|2.000 	|1.753 	|  1.2332e+01 
+2 	|1.753 	|1.743 	|  6.0785e-01 
+3 	|1.743 	|1.743 	|  1.4075e-03 
+4 	|1.743 	|1.743 	|  7.4948e-09 
+5 	|1.743 	|1.743 	|  1.2742e-14 
+
+The root of f(x)=0 is 1.743 
+The percent relative error = 1.2742e-14 %.
+
+----------------------------------------------------------
+Question 1: NEWTON-RAPHSON's METHOD 
+Given f(x) = sin^2(x) -4x + 6 
+Initial guess is 2.000 
+Number of iteration is 3 
+
+n 	|x0 	|x	| Relative error(%) 
+--------------------------------------
+1 	|2.000 	|1.753 	|  1.2332e+01 
+2 	|1.753 	|1.743 	|  6.0785e-01 
+3 	|1.743 	|1.743 	|  1.4075e-03 
+Solution diverges 
